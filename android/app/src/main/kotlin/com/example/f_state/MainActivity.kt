@@ -1,0 +1,6 @@
+package com.example.f_state
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
